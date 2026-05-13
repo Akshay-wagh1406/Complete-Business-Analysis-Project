@@ -1,0 +1,31 @@
+# Technical Report
+
+## Introduction
+This project analyzes customer churn and sales data.
+
+## Data Cleaning
+- Removed duplicates
+- Handled missing values
+- Standardized dataset
+
+## Exploratory Data Analysis
+- Churn distribution analyzed
+- Sales trends visualized
+- Correlation heatmap created
+
+## Statistical Analysis
+Hypothesis testing performed using T-test.
+
+## Machine Learning
+Random Forest Classifier used for churn prediction.
+
+## Results
+Model achieved good prediction accuracy.
+
+## Recommendations
+- Retention strategies
+- Marketing optimization
+- Customer segmentation targeting
+
+## Conclusion
+Data-driven decisions can significantly improve business performance.
